@@ -1,0 +1,63 @@
+#formulario{
+    background-color:  #ADD8E6;
+    width: 500px;
+  }
+
+
+
+#encabezado{
+    background-color:  #87CEEB;
+}
+
+#abajo{
+    background-color:  #87CEEB;
+}
+
+#encabezadoa{
+    background-color:  #87CEEB;
+}
+
+#abajoa{
+    background-color:  #87CEEB;
+    
+    padding: 20px 0;
+    text-align: center;
+}
+
+#boton{
+    background-color:  #87CEEB;
+    color: black;
+    
+}
+
+
+#botona{
+    background-color:  #87CEEB;
+    
+}
+
+#etiqueta{
+    background-color:  #ADD8E6;
+
+}
+
+input{
+    background-color: #AFEEEE;
+}
+
+#headers{
+    background-color:  #87CEEB;
+}
+
+html, body {
+    height: 100%;
+  }
+  
+  body {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #contenido {
+    flex: 1;
+  }
